@@ -36,3 +36,6 @@ class Diff
     System.out.println("Result : "+Derivative(w1, w2));
   }
 }
+
+
+editing
