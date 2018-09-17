@@ -1,0 +1,5 @@
+There are number of different ways in which load can be applied to a member.
+Static or dead load i.e. non fluctuating loads, generally caused by gravity effects.
+Live loads, as lorries crossing a bridge.
+Impact or shock loads caused by sudden blows.
+Fatigue, fluctuating or alternating loads, the magnitude and sign of the load changing with time.
