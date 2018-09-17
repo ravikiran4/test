@@ -5,3 +5,5 @@ Impact or shock loads caused by sudden blows.
 Fatigue, fluctuating or alternating loads, the magnitude and sign of the load changing with time.
 
 Github repository...!
+
+change
