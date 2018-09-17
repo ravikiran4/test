@@ -3,3 +3,5 @@ Static or dead load i.e. non fluctuating loads, generally caused by gravity effe
 Live loads, as lorries crossing a bridge.
 Impact or shock loads caused by sudden blows.
 Fatigue, fluctuating or alternating loads, the magnitude and sign of the load changing with time.
+
+Github repository...!
